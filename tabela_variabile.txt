@@ -1,0 +1,17 @@
+_int x 0
+_int op 0
+_int a 2
+_int wa 0
+_int c 0
+_int dddd 1
+_float ddd 2.9
+_string eeu em
+_float l 0
+_string s 
+_char ch 0
+_int b 5
+_bool bb 0
+_int v 0
+_float h 0
+_float la 0
+_int zz 0

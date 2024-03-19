@@ -1,0 +1,4 @@
+_int rt (_float oo)
+_int f (_int g)
+_int i (_int j,_int k)
+_int jz ()

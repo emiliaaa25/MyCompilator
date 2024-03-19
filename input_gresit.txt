@@ -1,0 +1,55 @@
+typedef MyType
+Data: _int x
+Metode: _int rt(_float oo)
+        _int op;
+        endf
+Init: init();
+typedef_stop;
+
+
+_int a=9;
+_int p;
+_int a,b;
+_float b=10.4;
+_string s;
+_char c;
+_bool b;
+_int  v[100];
+
+
+
+_int f(_int g)
+_float h;
+endf;
+
+_float mm()
+_int o;
+endf;
+
+_bool check()
+_int a;
+a=2;
+enf;
+
+_int i(_int j,_int k)
+_float l;
+endf;
+
+
+
+
+begin
+TypeOf(2+ch);
+
+s="Hello there";
+c='c';
+a=3;
+p=5;
+b=adevarat;
+a=2+p;
+_int i;
+_int ia=1;
+TypeOf(c);
+Eval(p+2);
+
+end
